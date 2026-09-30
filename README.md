@@ -1,7 +1,12 @@
 # 🛰️ NOC Toolkit - ISP Monitoring
 
-**Engineer:** Roland Benjamin | **Location:** Lagos, NG  
-**Repo:** `tbenjaminluxe-bot/Noc-toolkit`  
+![ISP](https://img.shields.io/badge/ISP-MTN_Nigeria-yellow?style=for-the-badge)
+![Latency](https://img.shields.io/badge/Latency-60ms-green?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Lagos,_NG-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Monitoring_Active-success?style=for-the-badge)
+
+**Engineer:** Roland Benjamin | **Location:** Lagos, NG
+**Repo:** tbenjaminluxe-bot/Noc-toolkit
 **ISP:** MTN Nigeria
 
 Live NOC monitoring toolkit built entirely on iPhone (iSH) - tracking ISP performance, latency, and uptime.
@@ -15,14 +20,8 @@ Live NOC monitoring toolkit built entirely on iPhone (iSH) - tracking ISP perfor
 ## 📁 Files
 | File | Description |
 |------|-------------|
-| `NOC-REPORT-Sep*.txt` | Daily latency & uptime reports |
-| `NOC-FINAL-Sep29...` | Final daily summary |
-| `FINAL-ISP-EMAIL.txt` | Professional ISP complaint template |
-| `noc-check.sh` | Monitoring scripts |
-| `evidence.txt` | Evidence logs |
-## 🚀 How I Use It (from iPhone)
-```bash
-./noc-check.sh
-git add NOC-REPORT*
-git commit -m "NOC $(date +%b%d) report"
-git push
+| NOC-REPORT-Sep*.txt | Daily latency & uptime reports |
+| FINAL-ISP-EMAIL.txt | ISP template |
+
+---
+*Built on iPhone - No laptop needed*
