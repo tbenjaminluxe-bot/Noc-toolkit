@@ -1,2 +1,5 @@
 .ssh/
 .git/
+*.log
+.ash_history
+.gitconfig
