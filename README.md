@@ -25,3 +25,7 @@ Live NOC monitoring toolkit built entirely on iPhone (iSH) - tracking ISP perfor
 
 ---
 *Built on iPhone - No laptop needed*
+
+---
+**Engineered by:** Roland Benjamin | NOC Engineer | Lagos, NG
+**Platform:** iPhone + iSH + Git + GitHub - No laptop needed 🇳🇬
