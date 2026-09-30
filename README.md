@@ -1,4 +1,5 @@
 # 🛰️ NOC Toolkit - ISP Monitoring
+![Roland NOC Badge](image_20260930_150127.webp)
 
 ![ISP](https://img.shields.io/badge/ISP-MTN_Nigeria-yellow?style=for-the-badge)
 ![Latency](https://img.shields.io/badge/Latency-60ms-green?style=for-the-badge)
