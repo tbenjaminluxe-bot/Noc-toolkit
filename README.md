@@ -1,7 +1,4 @@
 ![MTN Nigeria Monitoring](f8299606-f0f4-b378-c8ad-ca927bc68a55.webp)
-
-# MTN NOC Toolkit - Built on iPhone
-> **Roland Benjamin | NOC Engineer | Lagos NG • 2026**
 > Built entirely on iPhone. Real MTN LTE data.
 # MTN NOC Toolkit - Built on iPhone
 # 🛰️ NOC Toolkit - ISP Monitoring
