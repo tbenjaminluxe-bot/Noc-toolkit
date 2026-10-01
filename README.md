@@ -2,7 +2,7 @@
 ![Roland NOC Badge](f8299606-f0f4-b378-c8ad-ca927bc68a55.webp)
 ### Tool 4: IPv6 Prefix Monitor (/64 vs /66)
 - Detects if user is on native MTN IPv6 (/64) or tethered hotspot (/66)
-- Validates IPv6 routing and latency to 2001:4860:4860::8888
+- Validates IPv6 routing and latency
 - Useful for NOC tickets: Differentiates CGNAT/Hotspot vs Core network fault
 ![ISP](https://img.shields.io/badge/ISP-MTN_Nigeria-yellow?style=for-the-badge)
 ![Latency](https://img.shields.io/badge/Latency-60ms-green?style=for-the-badge)
